@@ -7,4 +7,5 @@ Maintainer: Sean Davis <seandavi@gmail.com>
 Description: Other stuff
 License: MIT
 LazyData: TRUE
+Depends: pheatmap
 RoxygenNote: 5.0.1
